@@ -6,4 +6,5 @@ Implementation of curves with aesthetic results.
 
 ## References
 <a id="1">[1]</a> Weisstein, E.W., 2003. Hypocycloid. https://mathworld. wolfram. com/.
+
 <a id="1">[2]</a> Rose-Henig, A. and Shapiro, A., 2013. A comparison of hypocycloid perception produced by two different elemental constructions. Journal of Vision, 13(9), pp.819-819.
