@@ -61,7 +61,7 @@ def HypocycloidCurve(Radius=1, IntRadius=.5, AngVelocity=2, IniExtAng=0, IniIntA
         plt.axis('equal')
         plt.show()
     except:
-        raise ValueError("Unapropriate arguments were given...")
+        raise ValueError("Check arguments.")
 
 
 def HypocycloidIllusion(DotNumber=1, ShowTrajectories=True, AngVelocity=2, ShowCircCenter=True):
@@ -157,7 +157,7 @@ def HypocycloidIllusion(DotNumber=1, ShowTrajectories=True, AngVelocity=2, ShowC
         else:
             raise ValueError("Number of dots must be a positive integer.")
     except:
-        raise ValueError("Unapropriate arguments were given.")
+        raise ValueError("Check arguments.")
 
 ############################
 #          EXAMPLES        #
